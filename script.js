@@ -1,5 +1,4 @@
-//your code here!
-//solution
+
 let list = document.querySelector("#infi-list");
 console.log(list);
 
