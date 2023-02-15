@@ -1,4 +1,3 @@
-
 let list = document.querySelector("#infi-list");
 console.log(list);
 
